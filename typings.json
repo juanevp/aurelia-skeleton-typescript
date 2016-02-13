@@ -1,0 +1,11 @@
+{
+  "name": "aurelia-skeleton-typescript",
+  "dependencies": {},
+  "devDependencies": {},
+  "ambientDependencies": {
+    "angular-protractor": "github:DefinitelyTyped/DefinitelyTyped/angular-protractor/angular-protractor.d.ts#17fa1e5f269189f7f8e0f53f8c443e6c2eac562c",
+    "core-js": "github:DefinitelyTyped/DefinitelyTyped/core-js/core-js.d.ts#c777572e8532c4d358306fe4c0e17a533f940b04",
+    "es6-promise": "github:DefinitelyTyped/DefinitelyTyped/es6-promise/es6-promise.d.ts#830e8ebd9ef137d039d5c7ede24a421f08595f83",
+    "jasmine": "github:DefinitelyTyped/DefinitelyTyped/jasmine/jasmine.d.ts#dd638012d63e069f2c99d06ef4dcc9616a943ee4"
+  }
+}
